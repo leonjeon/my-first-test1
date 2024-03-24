@@ -1,0 +1,13 @@
+package org.myweb.first.common;
+
+public class FileNameChange {
+	
+	public static String change(String originalFileName, String formatStr) {
+		String renameFileName = null;
+		
+		//바꿀 파일명에 대한 문자열 만들기
+		//전달 받은 포맷을 이용해서 만듦
+		
+		return renameFileName;
+	}
+}

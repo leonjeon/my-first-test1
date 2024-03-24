@@ -1,0 +1,37 @@
+[17:34:09][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[17:34:10][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 736 ms
+[17:34:10][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[17:34:10][INFO ][FrameworkServlet.java: 547] - Completed initialization in 709 ms
+[17:34:18][INFO ][MemberController.java: 65] - login.do : Member [userId=user01, userPwd=pass01, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[17:34:18][WARN ][DispatcherServlet.java: 1278] - No mapping for GET /first/ntop3.do
+[17:34:18][WARN ][DispatcherServlet.java: 1278] - No mapping for GET /first/btop3.do
+[17:34:20][WARN ][DispatcherServlet.java: 1278] - No mapping for GET /first/btop3.do
+[17:34:20][WARN ][DispatcherServlet.java: 1278] - No mapping for GET /first/ntop3.do
+[17:34:25][INFO ][MemberController.java: 65] - login.do : Member [userId=user01, userPwd=pass01, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[17:34:25][WARN ][DispatcherServlet.java: 1278] - No mapping for GET /first/btop3.do
+[17:34:25][WARN ][DispatcherServlet.java: 1278] - No mapping for GET /first/ntop3.do
+[17:36:43][WARN ][DispatcherServlet.java: 1278] - No mapping for GET /first/btop3.do
+[17:36:43][WARN ][DispatcherServlet.java: 1278] - No mapping for GET /first/ntop3.do
+[17:36:46][INFO ][MemberController.java: 65] - login.do : Member [userId=admin, userPwd=admin, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[17:36:46][WARN ][DispatcherServlet.java: 1278] - No mapping for GET /first/ntop3.do
+[17:36:46][WARN ][DispatcherServlet.java: 1278] - No mapping for GET /first/btop3.do
+[17:36:51][WARN ][DispatcherServlet.java: 1278] - No mapping for GET /first/ntop3.do
+[17:36:51][WARN ][DispatcherServlet.java: 1278] - No mapping for GET /first/btop3.do
+[17:36:58][INFO ][MemberController.java: 65] - login.do : Member [userId=user02, userPwd=pass02, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[17:36:58][WARN ][DispatcherServlet.java: 1278] - No mapping for GET /first/ntop3.do
+[17:36:58][WARN ][DispatcherServlet.java: 1278] - No mapping for GET /first/btop3.do
+[17:37:00][WARN ][DispatcherServlet.java: 1278] - No mapping for GET /first/btop3.do
+[17:37:00][WARN ][DispatcherServlet.java: 1278] - No mapping for GET /first/ntop3.do
+[18:21:51][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[18:21:52][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 722 ms
+[18:21:52][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[18:21:52][INFO ][FrameworkServlet.java: 547] - Completed initialization in 710 ms
+[18:22:03][WARN ][DispatcherServlet.java: 1278] - No mapping for GET /first/btop3.do
+[18:22:33][INFO ][MemberController.java: 65] - login.do : Member [userId=user01, userPwd=pass01, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[18:22:33][WARN ][DispatcherServlet.java: 1278] - No mapping for GET /first/btop3.do
+[20:08:22][WARN ][DispatcherServlet.java: 1278] - No mapping for GET /first/btop3.do
+[20:08:26][WARN ][DispatcherServlet.java: 1278] - No mapping for GET /first/ndetail.do
+[20:08:31][INFO ][MemberController.java: 65] - login.do : Member [userId=user01, userPwd=, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[20:08:41][INFO ][MemberController.java: 65] - login.do : Member [userId=user01, userPwd=pass01, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[20:08:41][WARN ][DispatcherServlet.java: 1278] - No mapping for GET /first/btop3.do
+[20:09:09][WARN ][DispatcherServlet.java: 1278] - No mapping for GET /first/btop3.do

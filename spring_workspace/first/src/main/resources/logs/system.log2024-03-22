@@ -1,0 +1,151 @@
+[12:02:25][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[12:02:25][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 832 ms
+[12:02:25][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[12:02:26][INFO ][FrameworkServlet.java: 547] - Completed initialization in 758 ms
+[12:02:37][INFO ][MemberController.java: 88] - login.do : Member [userId=admin, userPwd=admin, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[12:02:37][INFO ][MemberController.java: 89] - 아이디 : admin 5
+[12:33:37][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[12:33:38][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 778 ms
+[12:33:38][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[12:33:39][INFO ][FrameworkServlet.java: 547] - Completed initialization in 898 ms
+[12:33:51][INFO ][MemberController.java: 88] - login.do : Member [userId=user01, userPwd=pass01, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[12:33:51][INFO ][MemberController.java: 89] - 아이디 : user01 6
+[12:33:56][INFO ][LoginCheckIntercepter.java: 29] - 로그인 상태 : /first/breplyform.do 요청
+[12:35:30][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[12:35:30][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 742 ms
+[12:35:30][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[12:35:31][INFO ][FrameworkServlet.java: 547] - Completed initialization in 784 ms
+[12:35:36][INFO ][LoginCheckIntercepter.java: 29] - 로그인 상태 : /first/breplyform.do 요청
+[12:35:49][INFO ][BoardController.java: 112] - breply.do : Board [boardNum=0, boardWriter=user01, boardTitle=오호 댓글!!, boardContent=됩니당, boardOriginalFileName=null, boardRenameFileName=null, boardRef=16, boardReplyRef=0, boardLev=2, boardReplySeq=1, boardReadCount=0, boardDate=null]
+[12:40:04][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[12:40:05][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 742 ms
+[12:40:05][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[12:40:06][INFO ][FrameworkServlet.java: 547] - Completed initialization in 751 ms
+[12:40:17][INFO ][BoardController.java: 112] - breply.do : Board [boardNum=0, boardWriter=user01, boardTitle=오호 댓글!!, boardContent=됩니당, boardOriginalFileName=null, boardRenameFileName=null, boardRef=16, boardReplyRef=0, boardLev=2, boardReplySeq=1, boardReadCount=0, boardDate=null]
+[12:43:09][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[12:43:09][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 743 ms
+[12:43:09][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[12:43:10][INFO ][FrameworkServlet.java: 547] - Completed initialization in 731 ms
+[12:43:21][INFO ][BoardController.java: 112] - breply.do : Board [boardNum=0, boardWriter=user01, boardTitle=오호 댓글!!, boardContent=됩니당, boardOriginalFileName=null, boardRenameFileName=null, boardRef=16, boardReplyRef=0, boardLev=2, boardReplySeq=1, boardReadCount=0, boardDate=null]
+[12:43:29][WARN ][DispatcherServlet.java: 1278] - No mapping for GET /first/bupview.do
+[12:57:00][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[12:57:01][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 734 ms
+[12:57:01][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[12:57:02][INFO ][FrameworkServlet.java: 547] - Completed initialization in 734 ms
+[12:57:19][WARN ][AbstractHandlerExceptionResolver.java: 208] - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'rfile' for method parameter type String is not present]
+[12:59:29][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[12:59:30][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 748 ms
+[12:59:30][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[12:59:30][INFO ][FrameworkServlet.java: 547] - Completed initialization in 737 ms
+[13:02:35][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[13:02:36][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 752 ms
+[13:02:36][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[13:02:37][INFO ][FrameworkServlet.java: 547] - Completed initialization in 779 ms
+[15:22:43][WARN ][DispatcherServlet.java: 1278] - No mapping for GET /first/nlist.do
+[15:22:45][WARN ][DispatcherServlet.java: 1278] - No mapping for GET /first/moveAOP.do
+[15:22:47][WARN ][DispatcherServlet.java: 1278] - No mapping for GET /first/moveAjax.do
+[15:42:29][INFO ][MemberController.java: 88] - login.do : Member [userId=user04, userPwd=1234, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[15:42:29][INFO ][MemberController.java: 89] - 아이디 : user04 6
+[15:42:34][INFO ][LoginCheckIntercepter.java: 29] - 로그인 상태 : /first/bwform.do 요청
+[15:42:50][INFO ][BoardController.java: 159] - binsert.do : Board [boardNum=0, boardWriter=user04, boardTitle=wow!!, boardContent=good, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=0, boardDate=null]
+[15:42:50][INFO ][BoardController.java: 177] - 첨부파일명 변경 확인 : boreum2.jpg, 20240322154250.jpg
+[15:43:00][INFO ][MemberController.java: 88] - login.do : Member [userId=user05, userPwd=1234, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[15:43:00][INFO ][MemberController.java: 89] - 아이디 : user05 6
+[15:43:03][INFO ][LoginCheckIntercepter.java: 29] - 로그인 상태 : /first/bwform.do 요청
+[15:43:13][INFO ][BoardController.java: 159] - binsert.do : Board [boardNum=0, boardWriter=user05, boardTitle=대애애애박, boardContent=굿굿, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=0, boardDate=null]
+[15:43:13][INFO ][BoardController.java: 177] - 첨부파일명 변경 확인 : boreum2.jpg, 20240322154313.jpg
+[15:43:27][INFO ][MemberController.java: 88] - login.do : Member [userId=user06, userPwd=1234, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[15:43:27][INFO ][MemberController.java: 89] - 아이디 : user06 6
+[15:43:31][INFO ][LoginCheckIntercepter.java: 29] - 로그인 상태 : /first/bwform.do 요청
+[15:43:45][INFO ][BoardController.java: 159] - binsert.do : Board [boardNum=0, boardWriter=user06, boardTitle=프로젝트 화이팅~!!, boardContent=아자아자!!, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=0, boardDate=null]
+[15:43:45][INFO ][BoardController.java: 177] - 첨부파일명 변경 확인 : boreum2.jpg, 20240322154345.jpg
+[15:43:56][WARN ][DispatcherServlet.java: 1278] - No mapping for GET /first/ndetail.do
+[15:46:25][INFO ][MemberController.java: 88] - login.do : Member [userId=admin, userPwd=admin, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[15:46:25][INFO ][MemberController.java: 89] - 아이디 : admin 5
+[16:04:07][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[16:04:08][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 934 ms
+[16:04:08][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[16:04:09][INFO ][FrameworkServlet.java: 547] - Completed initialization in 883 ms
+[16:04:15][INFO ][LoginCheckIntercepter.java: 29] - 로그인 상태 : /first/breplyform.do 요청
+[16:04:23][INFO ][BoardController.java: 130] - breply.do : Board [boardNum=0, boardWriter=admin, boardTitle=대댓글이당, boardContent=오와오우우우, boardOriginalFileName=null, boardRenameFileName=null, boardRef=16, boardReplyRef=18, boardLev=3, boardReplySeq=1, boardReadCount=0, boardDate=null]
+[16:04:28][INFO ][LoginCheckIntercepter.java: 29] - 로그인 상태 : /first/breplyform.do 요청
+[16:04:36][INFO ][BoardController.java: 130] - breply.do : Board [boardNum=0, boardWriter=admin, boardTitle=대대대대대대댇댓글, boardContent=캬캬캬, boardOriginalFileName=null, boardRenameFileName=null, boardRef=16, boardReplyRef=18, boardLev=3, boardReplySeq=1, boardReadCount=0, boardDate=null]
+[16:15:23][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[16:15:24][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 798 ms
+[16:15:24][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[16:15:25][INFO ][FrameworkServlet.java: 547] - Completed initialization in 797 ms
+[16:15:53][INFO ][MemberController.java: 88] - login.do : Member [userId=user03, userPwd=pass03, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[16:15:53][INFO ][MemberController.java: 89] - 아이디 : user03 6
+[16:15:58][INFO ][LoginCheckIntercepter.java: 29] - 로그인 상태 : /first/bwform.do 요청
+[16:16:04][INFO ][BoardController.java: 177] - binsert.do : Board [boardNum=0, boardWriter=user03, boardTitle=전보름이당, boardContent=왈왈왈, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=0, boardDate=null]
+[16:16:20][INFO ][MemberController.java: 88] - login.do : Member [userId=user06, userPwd=1234, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[16:16:20][INFO ][MemberController.java: 89] - 아이디 : user06 6
+[16:16:25][INFO ][LoginCheckIntercepter.java: 29] - 로그인 상태 : /first/breplyform.do 요청
+[16:16:33][INFO ][BoardController.java: 130] - breply.do : Board [boardNum=0, boardWriter=user06, boardTitle=오진당, boardContent=멍멍멍, boardOriginalFileName=null, boardRenameFileName=null, boardRef=22, boardReplyRef=0, boardLev=2, boardReplySeq=1, boardReadCount=0, boardDate=null]
+[16:16:44][INFO ][MemberController.java: 88] - login.do : Member [userId=user05, userPwd=1234, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[16:16:44][INFO ][MemberController.java: 89] - 아이디 : user05 6
+[16:16:48][INFO ][LoginCheckIntercepter.java: 29] - 로그인 상태 : /first/breplyform.do 요청
+[16:16:58][INFO ][BoardController.java: 130] - breply.do : Board [boardNum=0, boardWriter=user05, boardTitle=지우기, boardContent=지우기, boardOriginalFileName=null, boardRenameFileName=null, boardRef=22, boardReplyRef=23, boardLev=3, boardReplySeq=1, boardReadCount=0, boardDate=null]
+[16:17:18][INFO ][MemberController.java: 88] - login.do : Member [userId=admin, userPwd=admin, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[16:17:18][INFO ][MemberController.java: 89] - 아이디 : admin 5
+[16:58:46][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[16:58:47][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 780 ms
+[16:58:47][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[16:58:48][INFO ][FrameworkServlet.java: 547] - Completed initialization in 840 ms
+[16:59:21][INFO ][MemberController.java: 88] - login.do : Member [userId=user01, userPwd=pass01, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[16:59:21][INFO ][MemberController.java: 89] - 아이디 : user01 6
+[16:59:41][WARN ][DispatcherServlet.java: 1278] - No mapping for POST /first/boriginupdate.do
+[17:00:13][INFO ][MemberController.java: 88] - login.do : Member [userId=user05, userPwd=1234, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[17:00:13][INFO ][MemberController.java: 89] - 아이디 : user05 6
+[17:00:15][WARN ][DispatcherServlet.java: 1278] - No mapping for GET /first/moveAOP.do
+[17:49:08][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[17:49:09][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 811 ms
+[17:49:09][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[17:49:10][INFO ][FrameworkServlet.java: 547] - Completed initialization in 765 ms
+[17:49:36][INFO ][LoginCheckIntercepter.java: 29] - 로그인 상태 : /first/myinfo.do 요청
+[17:49:52][WARN ][AbstractHandlerExceptionResolver.java: 208] - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: ""]
+[17:56:36][WARN ][AbstractHandlerExceptionResolver.java: 208] - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: ""]
+[17:57:50][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[17:57:51][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 723 ms
+[17:57:51][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[17:57:52][INFO ][FrameworkServlet.java: 547] - Completed initialization in 709 ms
+[17:58:03][WARN ][AbstractHandlerExceptionResolver.java: 208] - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: ""]
+[17:58:05][WARN ][AbstractHandlerExceptionResolver.java: 208] - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: ""]
+[17:58:07][WARN ][AbstractHandlerExceptionResolver.java: 208] - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: ""]
+[18:06:32][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[18:06:33][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 706 ms
+[18:06:33][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[18:06:34][INFO ][FrameworkServlet.java: 547] - Completed initialization in 721 ms
+[18:06:49][WARN ][AbstractHandlerExceptionResolver.java: 208] - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: ""]
+[18:09:07][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[18:09:07][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 719 ms
+[18:09:07][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[18:09:08][INFO ][FrameworkServlet.java: 547] - Completed initialization in 721 ms
+[18:09:12][WARN ][AbstractHandlerExceptionResolver.java: 208] - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: ""]
+[18:10:19][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[18:10:20][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 713 ms
+[18:10:20][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[18:10:21][INFO ][FrameworkServlet.java: 547] - Completed initialization in 721 ms
+[18:10:25][WARN ][AbstractHandlerExceptionResolver.java: 208] - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: ""]
+[18:11:20][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[18:11:21][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 708 ms
+[18:11:21][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[18:11:21][INFO ][FrameworkServlet.java: 547] - Completed initialization in 714 ms
+[18:11:26][WARN ][AbstractHandlerExceptionResolver.java: 208] - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: ""]
+[18:15:15][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[18:15:16][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 703 ms
+[18:15:16][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[18:15:17][INFO ][FrameworkServlet.java: 547] - Completed initialization in 709 ms
+[18:15:21][WARN ][AbstractHandlerExceptionResolver.java: 208] - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: ""]
+[18:16:10][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[18:16:11][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 715 ms
+[18:16:11][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[18:16:12][INFO ][FrameworkServlet.java: 547] - Completed initialization in 695 ms
+[18:22:10][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[18:22:11][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 706 ms
+[18:22:11][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[18:22:12][INFO ][FrameworkServlet.java: 547] - Completed initialization in 746 ms
+[18:23:48][INFO ][ContextLoader.java: 271] - Root WebApplicationContext: initialization started
+[18:23:49][INFO ][ContextLoader.java: 307] - Root WebApplicationContext initialized in 726 ms
+[18:23:49][INFO ][FrameworkServlet.java: 525] - Initializing Servlet 'appServlet'
+[18:23:50][INFO ][FrameworkServlet.java: 547] - Completed initialization in 726 ms

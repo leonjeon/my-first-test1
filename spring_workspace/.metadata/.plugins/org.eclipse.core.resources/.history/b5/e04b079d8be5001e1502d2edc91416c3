@@ -1,0 +1,5 @@
+package org.myweb.first.board.model.survice;
+
+public interface BoardService {
+	ArrayList<Board> selectTop3();
+}
